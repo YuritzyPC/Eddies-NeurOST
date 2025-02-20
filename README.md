@@ -16,7 +16,7 @@ Este repositorio contiene el código, documentación y modelos desarrollados par
 ---
 
 ## 🛰 **Datos Utilizados: Producto NeurOST**
-Los datos utilizados en este estudio provienen del **producto NeurOST**, que proporciona información de alta resolución espacial y temporal sobre la altura del nivel del mar (**SSH**) y otros parámetros oceanográficos. Se trabaja con resolución de **1 km diario**, lo que permite analizar la variabilidad de los remolinos a mesoescala.
+Los datos utilizados en este estudio provienen del **producto NeurOST**, que proporciona información de alta resolución espacial y temporal sobre la altura del nivel del mar (**SSH**) proveniente de SST y SSH DUACS (Martin et al., 2024). Se trabaja con resolución de **1 km diario**, lo que permite analizar la variabilidad de los remolinos a mesoescala.
 
 🔹 **Variables Principales:**
 - **SLA** (Sea Level Anomaly) – Anomalía del nivel del mar.
